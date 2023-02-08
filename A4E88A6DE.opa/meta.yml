@@ -1,0 +1,16 @@
+id: A4E88A6DE
+title: Brahmaśrīvyākaraṇa
+type: translation
+pechas:
+- I52F571E7
+- I8C265850
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-08 14:59:39.260050
+  last_modified_at: 2023-02-08 14:59:39.260063
+alignment_to_base:
+  I52F571E7/7431: B6F2
+  I8C265850/C979: B6F2
